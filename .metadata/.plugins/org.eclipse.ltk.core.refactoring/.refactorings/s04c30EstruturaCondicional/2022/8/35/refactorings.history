@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;s04c30EstruturaCondicional&apos;&#x0A;- Original project: &apos;s04c30EstruturaCondicional&apos;&#x0A;- Original element: &apos;s04c30EstruturaCondicional/src/s04c30EstruturaCondicional.bin&apos;" description="Delete element" element1="/src&lt;s04c30EstruturaCondicional.bin" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1661346467532" subPackages="false" version="1.0"/>
+</session>
