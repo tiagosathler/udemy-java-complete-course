@@ -166,7 +166,7 @@ public class Main {
 		 * mostrar o número da linha, depois o quadrado e o cubo do valor, conforme
 		 * exemplo.
 		 */
-		System.out.println("Exercício 7");
+		System.out.println("Exercício 7");t
 		Scanner sc = new Scanner(System.in);
 
 		int n = sc.nextInt();
