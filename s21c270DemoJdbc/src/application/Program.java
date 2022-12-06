@@ -24,6 +24,7 @@ public class Program {
 
 		System.out.println("Reading data...");
 		readData(conn, st, rs);
+		
 		System.out.println();
 
 		System.out.println("Inserting data...");
