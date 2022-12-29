@@ -30,9 +30,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 1: Introdução - 1 aula - 17m
+### Seção 1: Introdução - 1 aula - 17m
 
-  </summary><br>
+  </summary>
   
   1. _Introdução: visão geral do curso_
 
@@ -41,7 +41,7 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 2: Conceitos de programação - 7 aulas - 24m
+### Seção 2: Conceitos de programação - 7 aulas - 24m
 
    </summary>
   
@@ -58,9 +58,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 3: Introdução à linguagem Java - 9 aulas - 41m
+### Seção 3: Introdução à linguagem Java - 9 aulas - 41m
 
-  </summary><br>
+  </summary>
   
   9. _Visão geral do capítulo_
   10. _Material de apoio do capítulo_
@@ -77,9 +77,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 4: Estrutura sequencial - 12 aulas - 1h15m
+### Seção 4: Estrutura sequencial - 12 aulas - 1h15m
 
-  </summary><br>
+  </summary>
   
   18. _Visão geral do capítulo_
   19. _Material de apoio do capítulo_
@@ -99,9 +99,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 5: Estrutura condicional - 11 aulas - 54m
+### Seção 5: Estrutura condicional - 11 aulas - 54m
 
-  </summary><br>
+  </summary>
   
   30. _Visão geral do capítulo_
   31. _Material de apoio do capítulo_
@@ -120,9 +120,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 6: Estrutura repetitivas - 14h - 1h10m
+### Seção 6: Estrutura repetitivas - 14h - 1h10m
 
-  </summary><br>
+  </summary>
   
   41. _Visão geral do capítulo_
   42. _Material de apoio do capítulo_
@@ -144,9 +144,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 7: Outros tópicos básicos sobre Java - 6 aulas - 49m
+### Seção 7: Outros tópicos básicos sobre Java - 6 aulas - 49m
 
-  </summary><br>
+  </summary>
   
   55. _Material de apoio do capítulo_
   56. _Restrições e convenções para nomes_
@@ -160,9 +160,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 8: Introdução à Programação Orientada a Objetos - 12 aulas - 1h29m
+### Seção 8: Introdução à Programação Orientada a Objetos - 12 aulas - 1h29m
 
-  </summary><br>
+  </summary>
   
   61. _Visão geral do capítulo_
   62. _Material de apoio do capítulo_
@@ -182,9 +182,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 9: Construtores, palavra this, sobrecarga, encapsulamento - 11 aulas - 1h16m
+### Seção 9: Construtores, palavra this, sobrecarga, encapsulamento - 11 aulas - 1h16m
 
-  </summary><br>
+  </summary>
   
   73. _Visão geral do capítulo_
   74. _Material de apoio do capítulo_
@@ -203,9 +203,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 10: Comportamento de memória, arrays, listas - 20 aulas - 2h40m
+### Seção 10: Comportamento de memória, arrays, listas - 20 aulas - 2h40m
 
-  </summary><br>
+  </summary>
   
   84. _Visão geral do capítulo_
   85. _Material de apoio do capítulo_
@@ -233,9 +233,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark:  Seção 11: Tópicos especiais em Java: data-hora - 13 aulas - 1h49m
+### Seção 11: Tópicos especiais em Java: data-hora - 13 aulas - 1h49m
 
-  </summary><br>
+  </summary>
   
   104. _Boas-vindas e avisos_
   105. _Material de apoio do capítulo_
@@ -258,7 +258,7 @@ Realizado entre Agosto e Dezembro de 2022
 
 ### Seção 12: Bônus - nivelamento sobre Git e Github - 27 aulas - 2h15m
 
-  </summary><br>
+  </summary>
   
   117. _Apresentação do bônus Git e Github_
   118. _Material de apoio do capítulo_
@@ -293,9 +293,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 13: Enumerações, composição - 10 aulas - 1h28m
+### Seção 13: Enumerações, composição - 10 aulas - 1h28m
 
-  </summary><br>
+  </summary>
   
   144. _Visão geral do capítulo Enumerações e Composição_
   145. _Material de apoio do capítulo_
@@ -313,9 +313,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 14: Herança e polimorfismo - 13 aulas - 2h1m
+### Seção 14: Herança e polimorfismo - 13 aulas - 2h1m
 
-  </summary><br>
+  </summary>
   
   154. _Visão geral do capítulo Herança e Polimorfismo_
   155. _Material de apoio do capítulo_
@@ -336,9 +336,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 15: Tratamento de exceções - 12 aulas - 1h46m
+### Seção 15: Tratamento de exceções - 12 aulas - 1h46m
 
-  </summary><br>
+  </summary>
   
   167. _Visão geral do capítulo Tratamento de Exceções_
   168. _Material de apoio do capítulo_
@@ -358,11 +358,11 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 16: Projeto: Sistema jogo de xadrez - 33 aulas - 5h45m
+### Seção 16: Projeto: Sistema jogo de xadrez - 33 aulas - 5h45m
 
 > Repositório do projeto: [chess-system-java](https://github.com/tiagosathler/chess-system-java)
 
-  </summary><br>
+  </summary>
   
   179. _Visão geral do capítulo Sistema Jogo de Xadrez_
   180. _Material de apoio do capítulo_
@@ -403,9 +403,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 17: Trabalhando com arquivos - 10 aulas - 39m
+### Seção 17: Trabalhando com arquivos - 10 aulas - 39m
 
-  </summary><br>
+  </summary>
 
   212. _Visão geral do capítulo Trabalhando com Arquivos_
   213. _Material de apoio do capítulo_
@@ -423,9 +423,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 18: Interfaces - 14 aulas - 3h11m
+### Seção 18: Interfaces - 14 aulas - 3h11m
 
-  </summary><br>
+  </summary>
 
   222. _Visão geral do capítulo Interfaces_
   223. _Material de apoio do capítulo_
@@ -447,9 +447,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 19: Generics, Set, Map - 14 aulas - 2h7m
+### Seção 19: Generics, Set, Map - 14 aulas - 2h7m
 
-  </summary><br>
+  </summary>
 
   236. _Visão geral do capítulo Generics, Set, Map_
   237. _Material de apoio do capítulo_
@@ -471,9 +471,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 20: Programação funcional e expressões lambda - 13 aulas - 2h4m
+### Seção 20: Programação funcional e expressões lambda - 13 aulas - 2h4m
 
-  </summary><br>
+  </summary>
   
   250. _Visão geral do capítulo Programação Funcional e Expressões Lambda_
   251. _Material de apoio do capítulo_
@@ -494,11 +494,11 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 21: Acesso a banco de dados com JDBC - 26 aulas - 3h52m
+### Seção 21: Acesso a banco de dados com JDBC - 26 aulas - 3h52m
 
 > Repositório do projeto: [demo-dao-jdbc-java](https://github.com/tiagosathler/demo-dao-jdbc-java)
 
-  </summary><br>
+  </summary>
   
   263. _Visão geral do capítulo_
   264. _Material de apoio do capítulo_
@@ -532,9 +532,9 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
   
-### :white_check_mark: Seção 22: Java EE - Mapeamento objeto-relacional com JPA / Hibernate - 6 aulas - 54m
+### Seção 22: Java EE - Mapeamento objeto-relacional com JPA / Hibernate - 6 aulas - 54m
 
-  </summary><br>
+  </summary>
   
   289. _Visão geral do capítulo_
   290. _Material de apoio do capítulo_
@@ -548,10 +548,10 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 23: Projeto: Web services com Spring Boot e JPA / Hibernate - 34 aulas - 5h12m
+### Seção 23: Projeto: Web services com Spring Boot e JPA / Hibernate - 34 aulas - 5h12m
 
 > Repositório do projeto: [workshop-springboot3-jpa](https://github.com/tiagosathler/workshop-springboot3-jpa)
-  </summary><br>
+  </summary>
   
   295. _Visão geral do capítulo_
   296. _AVISO: sobre projeto atualizado_
@@ -593,10 +593,10 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark:  Seção 24: Projeto: API Restful com Spring Boot e banco MongoDB (web services + NoSQL) - 26 aulas - 3h30m
+### Seção 24: Projeto: API Restful com Spring Boot e banco MongoDB (web services + NoSQL) - 26 aulas - 3h30m
 
 > Repositório do projeto: [workshop-springboot3-mongodb](https://github.com/tiagosathler/workshop-springboot3-mongodb)
-  </summary><br>
+  </summary>
   
   329. _Visão geral do capítulo Projeto MongoDB com Spring Boot_
   330. _Material de apoio do capítulo_
@@ -630,11 +630,11 @@ Realizado entre Agosto e Dezembro de 2022
 <details>
   <summary>
 
-### :white_check_mark: Seção 25: Interface gráfica com JavaFX - 43 aulas - 6h48m
+### Seção 25: Interface gráfica com JavaFX - 43 aulas - 6h48m
 
 > Repositório do projeto: [workshop-javafx-jdbc](https://github.com/tiagosathler/workshop-javafx-jdbc)
 
-  </summary><br>
+  </summary>
   
   355. _Visão geral do capítulo_
   356. _Material de apoio do capítulo_
