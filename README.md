@@ -21,7 +21,10 @@
 
 ## Carga horária
 
-Mais de 54h de videos-aula + exercícios + projetos
+54h de videos-aula
+
+- exercícios - 33h
+- projetos - 47h
 
 Realizado entre Agosto e Dezembro de 2022
 
@@ -681,3 +684,7 @@ Realizado entre Agosto e Dezembro de 2022
   397. _Opcional - criação de atalho_
 
 </details>
+
+## Certificado
+
+![](https://github.com/tiagosathler/udemy-java-complete-course/blob/master/misc/UC-20bd16eb-b479-4ab4-9517-c968583521c1.jpg)
